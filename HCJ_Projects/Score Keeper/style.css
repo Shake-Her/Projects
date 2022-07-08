@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Patrick+Hand&display=swap');
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: darkgray;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Patrick Hand', cursive;
+    font-weight: bold;
+}
+
+span{
+    color: aliceblue;
+}
